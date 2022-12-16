@@ -3,5 +3,5 @@
 1 first commit
 
 2 feature commit
-
-3 have fun.
+3 git test
+4 have fun.
